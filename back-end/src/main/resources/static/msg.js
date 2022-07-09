@@ -1,0 +1,1 @@
+export default "Hi There! from msg file. Using modules!"
